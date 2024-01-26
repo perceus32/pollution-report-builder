@@ -77,3 +77,10 @@ I was successfully able to hit the endpoint, get data, create a react app which 
 
 ![image](https://github.com/perceus32/pollution-report-builder/assets/76050107/b6813dda-87cd-4db7-982a-0cfd832a34a8)
 
+![image](https://github.com/perceus32/pollution-report-builder/assets/76050107/88921aea-07d2-445e-b5ca-3c954728cf12)
+
+https://github.com/perceus32/pollution-report-builder/assets/76050107/30649dc9-c4ae-480e-a55a-643a8bbdb08b
+
+
+
+
