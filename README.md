@@ -65,3 +65,15 @@ Feel free to check the discussions tab, you might get something of help there. C
 
 ## Developer's Section
 *Add your video here, and your approach to the problem (optional). Leave some comments for us here if you want, we will be reading this :)*
+Add your video here, and your approach to the problem (optional). Leave some comments for us here if you want, we will be reading this :) Firstly, I started off with understanding the problem statement and researching about it. I looked on web for similar kinds of solutions, softwares and navigated through tons of github repositories and youtube videos to get some context. Learning from my previous internship experiences, I started to work backwards, imagining how the end result would look like. I started to think along the lines of dividing the main screen into 2 sections. On the left panel would be the user inputs and on the right panel would be the generated reports.
+
+On the left panel, the user would be able to select a city from either a dropdown option/ type in the city name in a text field. Further, he would be able to select the type of graph he would want to display. He would also be able to set the frequency of update of data. Also, there would be a button to preview and generate the reports. On the right panel, firstly we would want the summary data of any chosen pollutant to be displayed, a line graph showing the variation of CO levels daily.
+
+Now, the next step was analysis and gathering requirements. This was a big hurdle since there were tons of available options and it took me some time to get context and come to a decision. I decided to go with HTML/CSS and React.js since i had already worked on this before so there would be relatively less effort to learn. So, I created a React app. I added basic HTML/CSS. I also believe things need to be done firstly, and then we can develop iteratively. So i will focus on styling later.
+
+I guess the biggest roadblock was trying to ideate, and narrow down on an approach for implementation in a single day. Although I believe working under pressure is one of my strongholds, understanding the problem statement and getting context were the improvement areas. To overcome this, I eventually decided to just pick one, and get it done somehow, instead of wasting time on analysis.
+
+I was successfully able to hit the endpoint, get data, create a react app which allows users to choose city, display type and start and end date. Also, i am successfully able to display the summary stats too. I am working on developing charts, and I am done implementing and in my debugging phase. I have attached a screenshot showcasing the current implementation and will upload a video as soon as i get it completely functional.
+
+![image](https://github.com/perceus32/pollution-report-builder/assets/76050107/b6813dda-87cd-4db7-982a-0cfd832a34a8)
+
